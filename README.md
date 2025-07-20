@@ -6,10 +6,10 @@
 ### <div align="center">I'm Mahbub, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Evanto e-commerse]()  
+- 🔭 I’m Founder of [Practicemania.com](https://practicemania.com)
   
 
-- 🌱 I’m currently learning Blockchain and Kubernetes  
+- 🌱 I’m currently Stack On AI,ML
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
