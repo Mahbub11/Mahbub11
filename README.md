@@ -101,10 +101,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://dev.to/rishavanand" target="_blank">
+<a href="https://dev.to" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Mahbub" target="_blank">
@@ -125,8 +125,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mahbub11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 <br/>  
 
@@ -158,5 +157,4 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
