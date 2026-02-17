@@ -6,13 +6,13 @@
 ### <div align="center">I'm Mahbub, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m Founder of [Practicemania.com](https://practicemania.com)
+- 🔭 I’m Founder of [PracticeCompanions.com](https://practicecompanions.com)
   
 
 - 🌱 I’m currently Stack On AI,ML
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to NodeJS stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
