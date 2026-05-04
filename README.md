@@ -7,8 +7,9 @@
   
 
 - 🔭 I’m Founder of [PracticeCompanions.com](https://practicecompanions.com)
-  
 
+- 🔭 Profile [Mahbub Rahim](https://mahbub.practicecompanions.com/)
+  
 - 🌱 I’m currently Stack On AI,ML
   
 
